@@ -38,7 +38,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   kTextFieldDecoration.copyWith(hintText: 'Enter your email'),
             ),
             SizedBox(
-              height: 8.0,
+              height: 13.0,
             ),
             TextField(
               onChanged: (value) {
